@@ -1,4 +1,4 @@
-```markdown
+
 # Car Selling Price Prediction
 
 This project involves building a machine learning model to predict the selling price of cars based on several attributes. The dataset includes details like fuel type, years of service, showroom price, kilometers driven, seller type, transmission type, and ownership history.
